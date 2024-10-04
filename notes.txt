@@ -1,6 +1,3 @@
-superuser:
-    user:admin
-    pass:admin@little123
 
 managers:
     user:pedro
