@@ -1,0 +1,24 @@
+superuser:
+    user:admin
+    pass:admin@little123
+
+managers:
+    user:pedro
+    pass:pedro@little123
+
+delivery crews:
+    user:juan
+    pass:juan@little123
+
+    user:jose
+    pass:jose@little123
+
+users:
+    user:maria
+    pass:maria@little123
+
+    user:nathan
+    pass:nathan@little123
+
+    user:david
+    pass:david@little123
